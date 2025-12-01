@@ -17,4 +17,4 @@ Use inputs 1 or 2 and use a clock signal to change outputs
 
 ## External hardware
 
-2 LEDS
+LEDS
